@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px;
+    padding: 10px;
+}
+.container {
+    margin: 20px;
+    padding: 10px;
+    background: #ffebcd;
+}
