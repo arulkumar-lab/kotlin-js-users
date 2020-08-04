@@ -4,4 +4,4 @@
 
 ```mvn install```
 
-```run index.html'''
+Open index.html after maven build success
